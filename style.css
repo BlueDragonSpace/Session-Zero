@@ -1,11 +1,24 @@
-img {
-    width: 200px;
-}
-
 body {
     text-align: center;
     font-family: 'Candara';
-    background: rgb(80, 57, 0);
+    background: rgb(147, 134, 101);
     color: whitesmoke;
     line-height: 1.5;
+}
+
+*{
+  line-height: 1.5;
+}
+
+h6 {
+  color: rgb(225, 225, 225);
+}
+
+.orpheus_flag{
+  -webkit-transition: -webkit-transform 0.8s ease-in-out;
+          transition: transform 0.8s ease-in-out;
+}
+.orpheus_flag:hover {
+  -webkit-transform: rotate(25deg);
+          transform: rotate(25deg);
 }
