@@ -1,9 +1,19 @@
+@kumbt-font {
+  font-family: customFont;
+  /*
+  Link doesn't seem to work, but it's this font:
+  https://fonts.google.com/specimen/Kumbh+Sans?preview.script=Latn
+  */
+  src: url(https://fonts.googleapis.com/css?family=Kumbh Sans);
+}
+
 body {
     text-align: center;
     font-family: 'Candara';
-    background: linear-gradient(blue, red);
+    background: linear-gradient(#96735D, rgb(130, 0, 0));
     color: whitesmoke;
     line-height: 1.5;
+    font-family: "Kumbh Sans"
 }
 
 *{
@@ -11,7 +21,7 @@ body {
 }
 
 h6 {
-  color: rgb(225, 225, 225);
+  color: #44E5EB;
 }
 
 .orpheus_flag{
@@ -21,4 +31,8 @@ h6 {
 .orpheus_flag:hover {
   -webkit-transform: rotate(25deg);
           transform: rotate(25deg);
+}
+
+.catragon_icon{
+  border-radius: 20%;
 }
