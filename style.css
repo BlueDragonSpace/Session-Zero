@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Candara';
+    background: rgb(80, 57, 0);
+    color: whitesmoke;
+    line-height: 1.5;
+}
