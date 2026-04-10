@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Candara';
-    background: rgb(147, 134, 101);
+    background: linear-gradient(blue, red);
     color: whitesmoke;
     line-height: 1.5;
 }

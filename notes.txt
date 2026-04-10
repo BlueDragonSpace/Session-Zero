@@ -1,3 +1,11 @@
 Fail fast, fail often...
 
 Add in link to falling dice
+
+For not knowing HTML a week ago, I'm happy with just making the front end
+Back-end seems like a whole 'nother beast that I am not going to get to with like half a week to go
+
+That said, back-end to-dos:
+Login
+Automatically send me emails, or Slack notifications upon request
+Holding user data (in the cloud?)
