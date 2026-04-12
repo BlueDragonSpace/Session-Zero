@@ -26,10 +26,13 @@ Back-end seems like a whole 'nother beast that I am not going to get to with lik
 That said, back-end to-dos:
     Login
     Automatically send me emails, or Slack notifications upon request
-     user data (in the cloud?)
+    user data (in the cloud?)
+    REFERALLLSSSSSSSSS (THIS IS IMPORTANT CAPSLOCK)
 
 Vanity to-dos:
     Redo the dice simulation:
         Better dice / recolor with the scheme above
         Resize table and place where dice fall to fit the size of viewport
         Zoom into the dice in the first place they be so smol
+    Probably add more pictures of like buff barbarians and wizards with long beards instead of a (abeit nice-looking) linear-fade background
+    Why are there two little tiny red rectangles at the bottom of the page
