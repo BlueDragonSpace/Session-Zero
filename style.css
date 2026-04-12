@@ -39,6 +39,12 @@ h6 {
   color: #44E5EB;
 }
 
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
 .orpheus_flag{
   -webkit-transition: -webkit-transform 0.8s ease-in-out;
           transition: transform 0.8s ease-in-out;
