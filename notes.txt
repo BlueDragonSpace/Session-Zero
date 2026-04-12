@@ -19,8 +19,6 @@ Aqua
 Mud Brown
 Awful Brown (that looks good with the color scheme)
 
-Redo the Dice Visualization:
-    
 
 For not knowing HTML a week ago, I'm happy with just making the front end
 Back-end seems like a whole 'nother beast that I am not going to get to with like half a week to go
