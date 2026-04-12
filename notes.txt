@@ -19,6 +19,9 @@ Aqua
 Mud Brown
 Awful Brown (that looks good with the color scheme)
 
+Redo the Dice Visualization:
+    
+
 For not knowing HTML a week ago, I'm happy with just making the front end
 Back-end seems like a whole 'nother beast that I am not going to get to with like half a week to go
 
@@ -26,3 +29,9 @@ That said, back-end to-dos:
     Login
     Automatically send me emails, or Slack notifications upon request
      user data (in the cloud?)
+
+Vanity to-dos:
+    Redo the dice simulation:
+        Better dice / recolor with the scheme above
+        Resize table and place where dice fall to fit the size of viewport
+        Zoom into the dice in the first place they be so smol

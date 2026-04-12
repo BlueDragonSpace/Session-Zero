@@ -1,19 +1,34 @@
-@kumbt-font {
-  font-family: customFont;
-  /*
-  Link doesn't seem to work, but it's this font:
-  https://fonts.google.com/specimen/Kumbh+Sans?preview.script=Latn
-  */
-  src: url(https://fonts.googleapis.com/css?family=Kumbh Sans);
-}
+
+/*
+Font comes from Google Fonts:
+https://fonts.google.com/specimen/Kumbh+Sans?preview.script=Latn
+*/
+
 
 body {
     text-align: center;
-    font-family: 'Candara';
     background: linear-gradient(#96735D, rgb(130, 0, 0));
     color: whitesmoke;
     line-height: 1.5;
-    font-family: "Kumbh Sans"
+    font-family: "Kumbh Sans";
+}
+
+/*YWSW summary*/
+
+/* Rules of Play Title*/
+h2 {
+  font-family: "Metal Mania";
+  font-size: 4.5em
+}
+
+/* Actual rule */
+h4 {
+  font-size: larger
+}
+
+/*Rule subtext*/
+h5 {
+  margin: 0 10%;
 }
 
 *{
